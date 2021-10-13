@@ -12,3 +12,6 @@ https://leetcode-cn.com/problems/plus-one/
 https://leetcode-cn.com/problems/reverse-linked-list/
 
 https://leetcode-cn.com/problems/reverse-nodes-in-k-group/
+
+## 哈希表经典问题
+https://leetcode-cn.com/problems/lru-cache/
