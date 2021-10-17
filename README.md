@@ -10,6 +10,8 @@ https://leetcode-cn.com/problems/plus-one/
 
 https://leetcode-cn.com/problems/subarray-sum-equals-k/
 
+https://leetcode-cn.com/problems/range-sum-query-2d-immutable/
+
 ## 链表经典问题
 https://leetcode-cn.com/problems/reverse-linked-list/
 
