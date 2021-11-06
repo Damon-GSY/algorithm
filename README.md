@@ -27,3 +27,6 @@ https://leetcode-cn.com/problems/container-with-most-water/
 https://leetcode-cn.com/problems/permutations-ii/
 
 https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+
+## 二分查找经典问题
+https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/
