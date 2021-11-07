@@ -30,3 +30,5 @@ https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder
 
 ## 二分查找经典问题
 https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/
+
+https://leetcode-cn.com/problems/n-queens/
