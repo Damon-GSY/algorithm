@@ -39,3 +39,5 @@ https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/
 https://leetcode-cn.com/problems/climbing-stairs/
 
 https://leetcode-cn.com/problems/triangle/description/
+
+https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/
