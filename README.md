@@ -43,3 +43,7 @@ https://leetcode-cn.com/problems/triangle/description/
 https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/
 
 https://leetcode-cn.com/problems/triangle/
+
+https://leetcode-cn.com/problems/perfect-squares/
+
+https://leetcode-cn.com/problems/jump-game/
