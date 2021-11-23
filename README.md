@@ -47,3 +47,9 @@ https://leetcode-cn.com/problems/triangle/
 https://leetcode-cn.com/problems/perfect-squares/
 
 https://leetcode-cn.com/problems/jump-game/
+
+## 并查集经典问题
+https://www.acwing.com/problem/content/147/
+经典
+经典
+
