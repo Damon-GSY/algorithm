@@ -50,6 +50,10 @@ https://leetcode-cn.com/problems/jump-game/
 
 ## 并查集经典问题
 https://www.acwing.com/problem/content/147/
+
 https://leetcode-cn.com/problems/number-of-islands
+
 https://leetcode-cn.com/problems/surrounded-regions/
+
+https://leetcode-cn.com/problems/redundant-connection
 
